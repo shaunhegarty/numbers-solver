@@ -1,0 +1,17 @@
+.idea/compiler.xml
+.idea/compiler.xml
+.idea/vcs.xml
+NumbersRevisited.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.idea/dictionaries/shaun.xml
+target/classes/cd/numbers/Operation.class
+target/classes/cd/numbers/Operator.class
+target/classes/cd/numbers/PermutationException.class
+target/classes/cd/numbers/Permutator.class
+target/classes/cd/numbers/Solution.class
+target/classes/cd/numbers/Solver.class
+target/test-classes/cd/numbers/PermutatorTest.class
+target/test-classes/cd/numbers/SolverTest.class

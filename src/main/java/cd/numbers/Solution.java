@@ -91,4 +91,13 @@ class Solution implements Cloneable{
     public boolean isValid() {
         return valid;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(!(obj instanceof Solution)){
+            return false;
+        }
+        return obj.toString().equals(this.toString());
+
+    }
 }

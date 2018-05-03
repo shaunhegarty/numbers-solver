@@ -15,3 +15,14 @@ target/classes/cd/numbers/Solution.class
 target/classes/cd/numbers/Solver.class
 target/test-classes/cd/numbers/PermutatorTest.class
 target/test-classes/cd/numbers/SolverTest.class
+.idea/compiler.xml
+bin/src/main/java/cd/numbers/Permutator.class
+.project
+bin/src/main/java/cd/numbers/Operation.class
+bin/src/main/java/cd/numbers/Operator.class
+bin/src/main/java/cd/numbers/PermutationException.class
+bin/src/main/java/cd/numbers/Solution.class
+bin/src/main/java/cd/numbers/Solver.class
+bin/src/test/java/cd/numbers/PermutatorTest.class
+bin/src/test/java/cd/numbers/SolverTest.class
+NumbersSolver.iml
